@@ -63,4 +63,4 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 
 ## İletişim
 
-Sorular ve destek için: Ali.haydar1313@gmail.com
+Sorular ve destek için: ali.haydar1313@gmail.com

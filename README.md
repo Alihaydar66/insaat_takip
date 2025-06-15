@@ -31,7 +31,7 @@
 
 1. Projeyi klonlayın:
    ```
-   git clone https://github.com/username/insaat_takip.git
+   git clone https://github.com/Alihaydar66/insaat_takip.git
    ```
 
 2. Bağımlılıkları yükleyin:

@@ -40,22 +40,8 @@
    flutter pub get
    ```
 
-3. Supabase ayarlarınızı yapın:
-   - Supabase hesabı oluşturun ve yeni bir proje oluşturun
-   - `.env` dosyasını proje kök dizinine oluşturun ve aşağıdaki değerleri ekleyin:
-     ```
-     SUPABASE_URL=YOUR_SUPABASE_URL
-     SUPABASE_ANON_KEY=YOUR_SUPABASE_ANON_KEY
-     ```
 
-4. Supabase tablolarını oluşturun:
-   - `profiles`: Kullanıcı profilleri
-   - `projects`: Projeler
-   - `floors`: Katlar
-   - `elements`: Yapı elemanları
-   - `photos`: Fotoğraflar
-
-5. Uygulamayı çalıştırın:
+3. Uygulamayı çalıştırın:
    ```
    flutter run
    ```
@@ -78,4 +64,4 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 
 ## İletişim
 
-Sorular ve destek için: ornek@email.com
+Sorular ve destek için: Ali.haydar1313@gmail.com

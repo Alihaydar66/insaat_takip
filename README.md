@@ -25,7 +25,6 @@
 - Flutter SDK (en az 3.0.0)
 - Dart SDK (en az 2.12.0)
 - Android Studio / VS Code
-- Supabase hesabı
 
 ### Adımlar
 
